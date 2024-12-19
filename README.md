@@ -1,4 +1,4 @@
-# Hand Tracking with Mediapipe: README
+# Hand Tracking with Mediapipe
 
 ## Project Overview
 This project demonstrates a **real-time hand tracking application** using Mediapipe's Hand solutions and OpenCV. The project provides functionality for detecting and tracking hand landmarks, drawing connections between landmarks, and even controlling system volume based on hand gestures. It is structured into multiple Python modules for modularity and reusability.
